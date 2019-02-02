@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 
 
-var prefix = "W";
+var prefix = "1";
 
 client.on('message', message => {
 
@@ -27,7 +27,7 @@ client.on('message', message => {
 
 // -say
 
-  if (command === "elcome To **Liberty** Server.") {
+  if (command === "say") {
 
           message.delete()
 
