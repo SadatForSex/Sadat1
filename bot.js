@@ -8,7 +8,7 @@ console.log('I am ready!');
 
 
 
-var prefix = "1;
+var prefix = "1";
 
 client.on('message', message => {
 
