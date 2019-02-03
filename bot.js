@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 
 
-var prefix = "و";
+var prefix = "Welcome";
 
 client.on('message', message => {
 
@@ -27,7 +27,7 @@ client.on('message', message => {
 
 // -say
 
-  if (command === "لكم ") {
+  if (command === "To Liberty") {
 
           message.delete()
 
