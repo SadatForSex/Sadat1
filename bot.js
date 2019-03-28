@@ -39,10 +39,10 @@ client.on('message', message => {
 
 
 client.on('ready', async() => {
-var server = "524175633685807104"; 
-var channel = "524175780075274251";
+var server = "522619259847704576"; 
+var channel = "545258971833827348";
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > ')
+    client.guilds.get(server).channels.get(channel).send('SADAT IS THE ONE > SADAT IS THE ONE > SADAT IS THE ONE > SADAT IS THE ONE > SADAT IS THE ONE > SADAT IS THE ONE > SADAT IS THE ONE > SADAT IS THE ONE > SADAT IS THE ONE > SADAT IS THE ONE > SADAT IS THE ONE > ')
     },305);
 })
 
